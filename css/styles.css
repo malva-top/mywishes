@@ -52,3 +52,13 @@ table {
 a{
     text-decoration: none;
 }
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    max-width: 1440px;
+}
+
+.nav ul{
+    display: flex;
+}
